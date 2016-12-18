@@ -1,0 +1,19 @@
+
+h2 :lang(ur) {
+    font-size: 48pt;
+}
+
+:lang(ur) {
+    font-family: 'Scheherazade', serif;
+    font-size: x-large;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+.parNum {
+    left: 12%;
+    color: #9b1903;
+    position: absolute;
+    font-size: x-small;
+    font-weight: bold;
+}
